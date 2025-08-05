@@ -73,7 +73,7 @@ This visualization shows how the type of film budgeting influences the gross.
 
 This visualization shows the type of films that meet audience preferences.
 
-!\[BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/performinggenres.png)
+!\[BAR GRAPH](https://github.com/SamuelMathenge/PHASE-2-PROJECT/blob/main/photos/performinggenres.png?raw=true)
 
 
 
@@ -81,7 +81,7 @@ This visualization shows the type of films that meet audience preferences.
 
 This visualization helps us understand how our studio income could be influenced by it's popularity.
 
-!\[BAR GRAPH](photos/studios.png)
+!\[BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/studios.png)
 
 
 
