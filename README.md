@@ -65,7 +65,7 @@ The datasets contain at least 60,000 rows of data which has been cleaned and has
 
 This visualization shows how the type of film budgeting influences the gross.
 
-!\[GROUPED BAR GRAPH](!\[GROUPED BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/well\_budgeted.png)
+!\[GROUPED BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/well\_budgeted.png)
 
 
 
@@ -73,7 +73,7 @@ This visualization shows how the type of film budgeting influences the gross.
 
 This visualization shows the type of films that meet audience preferences.
 
-!\[BAR GRAPH](!\[GROUPED BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/performing\_genres.png)
+!\[BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/performing\_genres.png)
 
 
 
