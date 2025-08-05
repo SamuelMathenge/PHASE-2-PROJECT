@@ -104,5 +104,5 @@ This findings help our company in many ways including the following:
 
 
 
-More visualizations have been uploaded in my tableau public page [Tableau](https://public.tableau.com/views/project2_17543087062550/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Attached is the link to my tableau Dashboards [Tableau](https://public.tableau.com/views/project2_17543087062550/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
