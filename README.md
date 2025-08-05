@@ -81,7 +81,7 @@ This visualization shows the type of films that meet audience preferences.
 
 This visualization helps us understand how our studio income could be influenced by it's popularity.
 
-!\[BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/studios.png)
+!\[BAR GRAPH](photos/studios.png)
 
 
 
@@ -105,6 +105,4 @@ This findings help our company in many ways including the following:
 
 
 More visualizations have been uploaded in my tableau public page [Tableau](https://public.tableau.com/views/project2_17543087062550/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
-
 
