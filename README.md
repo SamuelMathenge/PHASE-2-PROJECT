@@ -73,7 +73,7 @@ This visualization shows how the type of film budgeting influences the gross.
 
 This visualization shows the type of films that meet audience preferences.
 
-!\[BAR GRAPH](https://github.com/SamuelMathenge/PHASE-2-PROJECT/blob/main/photos/performinggenres.png?raw=true)
+!\[BAR GRAPH](https://github.com/SamuelMathenge/PHASE-2-PROJECT/blob/main/performinggenres.png?raw=true)
 
 
 
