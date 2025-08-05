@@ -65,7 +65,7 @@ The datasets contain at least 60,000 rows of data which has been cleaned and has
 
 This visualization shows how the type of film budgeting influences the gross.
 
-!\[GROUPED BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/wellbudgeted.png)
+![GROUPED BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/wellbudgeted.png?raw=true)
 
 
 
@@ -81,7 +81,7 @@ This visualization shows the type of films that meet audience preferences.
 
 This visualization helps us understand how our studio income could be influenced by it's popularity.
 
-![BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/photos/studios.png)
+![BAR GRAPH](https://raw.githubusercontent.com/SamuelMathenge/PHASE-2-PROJECT/main/studios.png?raw=true)
 
 
 
